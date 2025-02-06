@@ -65,4 +65,5 @@ npm run dev
 
 Open http://localhost:5173 in your browser.
 
-![Image Alt](https://github.com/Abdul100-han/shipment-tracker/blob/main/shipment-tracker.png?raw=true)
+![Image Alt](https://raw.githubusercontent.com/Abdul100-han/shipment-tracker/main/shipment-tracker.png)
+
